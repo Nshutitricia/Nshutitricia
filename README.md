@@ -26,19 +26,21 @@
 
 ---
 
+## 🌟 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Nshutitricia/personal_portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nshutitricia&repo=personal_portfolio&theme=tokyonight" alt="personal_portfolio repo"/>
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nshutitricia&show_icons=true&theme=tokyonight" alt="Nshutitricia's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshutitricia&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</p>
-
----
-
-## 🗂️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nshutitricia&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
