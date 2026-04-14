@@ -1,28 +1,41 @@
-# Hi, I'm Tricia! 👋
+<h1 align="center">Hi, I'm Tricia 👋</h1>
 
-I am a Junior Software Developer bridging the gap between scalable full-stack web applications and hardware IoT systems. I thrive in fast-paced environments and love building tools that solve real-world problems.
+<p align="center">
+  <b>Junior Software Developer</b><br/>
+  Building scalable full-stack applications & IoT systems 🚀
+</p>
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,html,css" alt="Frontend and Languages" />
+<p align="center">
+  <a href="http://tricia-nshuti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nshuti-tricia-680173228/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tricia-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:nshutricia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,postgres,mongodb,firebase" alt="Backend and Databases" />
-  </a>
+---
+
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,html,css" />
 </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,raspberrypi,arduino" alt="DevOps and Hardware" />
-  </a>
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,postgres,mongodb,firebase" />
 </p>
 
-### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/nshuti-tricia](https://www.linkedin.com/in/nshuti-tricia-680173228/)
-* **Email:** nshutricia@gmail.com
+### 🧰 Tools & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,raspberrypi,arduino" />
+</p>
+
+---
 
